@@ -1,2 +1,2 @@
 # project
-bobble
+ This application will work as a dictionary.
